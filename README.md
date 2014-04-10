@@ -2,6 +2,7 @@
 
 
 This is the Console Bank!
+
 Here are the rules:
 * You can make deposits and withdraws
 * For every deposit over $500.00, the bank gives you $25.00
